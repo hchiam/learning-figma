@@ -15,3 +15,19 @@ Another interactive demo (hover and click): <https://www.figma.com/proto/UTTgyhT
 And another, newer tutorial: <https://www.youtube.com/watch?v=t-2Gdmx0t08>
 
 Learn Bravo to make native apps from Figma prototypes: <https://github.com/hchiam/learning-bravo-studio>
+
+## A quick summary of other design tools:
+
+From [Meng To](https://twitter.com/MengTo/status/1109203931580645377):
+
+```text
+My thoughts on design tools and why you should pick them.
+
+Figma: collaboration and all-in-one
+Sketch: maturity and plugins
+Framer: code and advanced prototyping
+Studio: free and animation
+XD: speed and adobe platform
+```
+
+Or if you have more time, read a more involved analysis on [smashingmagazine.com](https://www.smashingmagazine.com/2019/04/sketch-figma-adobe-xd-ui-design-applications).
