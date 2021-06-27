@@ -31,3 +31,5 @@ XD: speed and adobe platform
 ```
 
 Or if you have more time, read a more involved analysis on [smashingmagazine.com](https://www.smashingmagazine.com/2019/04/sketch-figma-adobe-xd-ui-design-applications).
+
+For creating images like SVGs, I'd use [Photopea](https://github.com/hchiam/learning-photopea)
