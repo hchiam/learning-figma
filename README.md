@@ -16,7 +16,14 @@ And another, newer tutorial: <https://www.youtube.com/watch?v=t-2Gdmx0t08>
 
 Learn Bravo to make native apps from Figma prototypes: <https://github.com/hchiam/learning-bravo-studio>
 
-"Figma for VS Code" extension so devs can collaborate from VSCode in real time, and get code suggestions based on Figma designs: https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension - NOTE: in beta as of 2023
+"Figma for VS Code" extension so devs can collaborate from VSCode in real time, and get code suggestions based on Figma designs: https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension - NOTE: **in beta as of 2023**
+
+Dev mode Figma to translate design to code faster (**in beta as of 2023**):
+  - NON-dev mode (design mode) example: https://www.figma.com/file/UNYqpMVdlSlnjuBO20WRfr/Mobile-Wireframe-UI-Kit-(Community)?type=design&node-id=37-92&mode=design&t=rwE92hE52j9xtQIm-0
+  - dev mode example: https://www.figma.com/file/UNYqpMVdlSlnjuBO20WRfr/Mobile-Wireframe-UI-Kit-(Community)?node-id=40%3A191&mode=dev (you need to be logged into Figma) with things like:
+  - hover to inspect some things kinda like [DevTools](https://developer.chrome.com/docs/devtools/) or [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug)
+  - click to copy generated code (CSS/HTML/JSX/Tailwind/etc.!) to clipboard
+  - click to download icon SVGs
 
 ## A quick summary of other design tools:
 
