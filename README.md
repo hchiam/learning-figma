@@ -16,7 +16,7 @@ And another, newer tutorial: <https://www.youtube.com/watch?v=t-2Gdmx0t08>
 
 Learn Bravo to make native apps from Figma prototypes: <https://github.com/hchiam/learning-bravo-studio>
 
-Note that Figma isn't just collaborative clean drawing or [making component instances update from one place](https://youtu.be/dXQ7IHkTiMM?feature=shared&t=703), it also has interactivity and the [components can be made responsive to frame resizing (constraints)](https://youtu.be/dXQ7IHkTiMM?feature=shared&t=725) and ["Auto Layout", which reminds me of CSS flexbox](https://youtu.be/wvFd-z7jSaA?feature=shared&t=443).
+Note that Figma isn't just collaborative clean drawing or [making component instances update from one place](https://youtu.be/dXQ7IHkTiMM?feature=shared&t=703), it also has interactivity and the [components can be made responsive to frame resizing (constraints)](https://youtu.be/dXQ7IHkTiMM?feature=shared&t=725) and ["Auto Layout", which reminds me of CSS flexbox, but lets components expand/push down with new content like text while preserving a gap between](https://youtu.be/wvFd-z7jSaA?feature=shared&t=443).
 
 Example components library (login, then see Assets and search): https://www.figma.com/file/HD9OYLfuDqWgaJ1JfScNZF/Example-Components-Library-(search-the-Assets)?type=design&node-id=0%3A1&mode=design&t=JAlvQci4xpWKErsT-1
 
