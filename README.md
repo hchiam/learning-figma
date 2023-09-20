@@ -16,6 +16,8 @@ And another, newer tutorial: <https://www.youtube.com/watch?v=t-2Gdmx0t08>
 
 Learn Bravo to make native apps from Figma prototypes: <https://github.com/hchiam/learning-bravo-studio>
 
+Note that Figma isn't just collaborative clean drawing or [making component instances update from one place](https://youtu.be/dXQ7IHkTiMM?feature=shared&t=703), it also has interactivity and the [components can be made responsive to frame resizing (constraints)](https://youtu.be/dXQ7IHkTiMM?feature=shared&t=725).
+
 "Figma for VS Code" extension so devs can collaborate from VSCode in real time, and get code suggestions based on Figma designs: https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension - NOTE: **in beta as of 2023**
 
 Dev mode Figma to translate design to code faster (**in beta as of 2023**):
