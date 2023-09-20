@@ -2,6 +2,8 @@
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
+If you can't remember keyboard shortcuts or just want to search available actions, hit <kbd>command</kbd> + <kbd>/</kbd> (mac) **OR** <kbd>Ctrl</kbd> + <kbd>/</kbd> (pc).
+
 Following tutorial: <https://www.youtube.com/watch?v=3q3FV65ZrUs> (But you might want to look at the short [official Figma intro tutorials playlist](https://www.youtube.com/watch?v=Cx2dkpBxst8&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4&index=1).)
 
 Example Figma interative demo page: <https://www.figma.com/proto/dWPMZc0LYEkG7VB9uqUV6S/Figma-Tutorial?node-id=2%3A2&scaling=scale-down>
