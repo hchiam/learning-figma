@@ -16,6 +16,8 @@ And another, newer tutorial: <https://www.youtube.com/watch?v=t-2Gdmx0t08>
 
 Learn Bravo to make native apps from Figma prototypes: <https://github.com/hchiam/learning-bravo-studio>
 
+"Figma for VS Code" extension so devs can collaborate from VSCode in real time, and get code suggestions based on Figma designs: https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension - NOTE: in beta as of 2023
+
 ## A quick summary of other design tools:
 
 From [Meng To](https://twitter.com/MengTo/status/1109203931580645377):
