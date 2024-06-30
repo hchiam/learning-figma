@@ -20,6 +20,8 @@ Learn Bravo to make native apps from Figma prototypes: <https://github.com/hchia
 
 Note that Figma isn't just collaborative clean drawing or [making component instances update from one place](https://youtu.be/dXQ7IHkTiMM?feature=shared&t=703), it also has interactivity and the [components can be made responsive to frame resizing (constraints)](https://youtu.be/dXQ7IHkTiMM?feature=shared&t=725) and ["Auto Layout", which reminds me of CSS flexbox, but lets components expand/push down with new content like text while preserving a gap between](https://youtu.be/wvFd-z7jSaA?feature=shared&t=443).
 
+Tips on Figma components: [tips like how to organize and swap between components - pros/cons of separate state components vs nested (hidden) variations in single master components](https://medium.com/design-with-figma/10-tips-on-using-components-in-figma-c7db9c5e7fe1)
+
 **Prototype interaction** info: https://youtu.be/lTIeZ2ahEkQ?feature=shared&t=316
 - **Anyone logged in to Figma can add comments** at the **prototype** view link.
 - **You can do a usability test with Figma by seeing their interactions with the prototype!** Click on a viewer's avatar to use observation mode on the shared prototype view link.
