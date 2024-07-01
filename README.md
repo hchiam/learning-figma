@@ -38,6 +38,13 @@ Dev mode Figma to translate design to code faster (**in beta as of 2023**):
   - click to copy generated code (CSS/HTML/JSX/Tailwind/etc.!) to clipboard
   - click to download icon SVGs
 
+Design system / design tokens:
+- [Tokens, variables, and styles - Update: Introduction to design systems](https://www.youtube.com/watch?v=JyCmacSyDY4&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=9)
+  - create linked style variables that are reusable and inheritable (can be implemented as CSS variables, i.e. CSS custom properties)
+  - you can hide primitive values: right click > Edit variables > uncheck "Show in all supported properties" and check "Hide from publishing"
+  - variable modes = "table" of alternate values in Figma, e.g. dark mode values LETS YOU SWITCH TO ALL DARK MODE VALUES QUICKLY IN FIGMA!!! Design > Local variables > add a column! Then you can switch to dark mode values of all variables with Design > Layer > Tokens: Dark.
+- [open-props figma tokens](https://github.com/hchiam/figma-tokens-sync-example)
+
 ## A quick summary of other design tools:
 
 From [Meng To](https://twitter.com/MengTo/status/1109203931580645377):
