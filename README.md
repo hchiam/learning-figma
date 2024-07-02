@@ -22,6 +22,7 @@ Note that Figma isn't just collaborative clean drawing or [making component inst
 - btw: contraints vs auto layout in Figma:
   - constraints: objects respond to parent frame changing
   - auto layout: parent frame responds to child objects changing
+- and Figma also has [variables](https://help.figma.com/hc/en-us/articles/14506587589399-Use-variables-in-prototypes) and [conditionals](https://help.figma.com/hc/en-us/articles/15253220891799-Multiple-actions-and-conditionals#h_01H91GHXRHGN8K801ZZCPV99FA)
 
 Tips on Figma components: [tips like how to organize and swap between components - pros/cons of separate state components vs nested (hidden) variations in single master components](https://medium.com/design-with-figma/10-tips-on-using-components-in-figma-c7db9c5e7fe1)
 - [Create component > Add variant (default variant will be in top-left)](https://www.youtube.com/watch?v=0XSLMGh8yhM&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=7)
