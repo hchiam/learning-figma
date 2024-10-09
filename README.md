@@ -68,3 +68,9 @@ Or if you have more time, read a more involved analysis on [smashingmagazine.com
 For creating images like SVGs, I'd use [Photopea](https://github.com/hchiam/learning-photopea)
 
 While Figma is good for collaboration, you might want to consider [Storybook](https://github.com/hchiam/learning-storybook) instead for code and "live" components.
+
+## You might also be interested in:
+
+Lottie files for animations
+- https://github.com/hchiam/learning-lottie
+- via the [Lottie plugin](https://lottiefiles.com/plugins/figma) for Figma
