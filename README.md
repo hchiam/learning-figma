@@ -74,3 +74,6 @@ While Figma is good for collaboration, you might want to consider [Storybook](ht
 Lottie files for animations
 - https://github.com/hchiam/learning-lottie
 - via the [Lottie plugin](https://lottiefiles.com/plugins/figma) for Figma
+- You might want to consider [Lottielab](https://www.lottielab.com) with/without Figma to generate [animations with curved paths](https://docs.lottielab.com/editor/canvas/layer-controls-huds/motion-path/curving-a-motion-path)
+  - https://www.youtube.com/watch?v=j9KP44kj0gU
+  - https://www.youtube.com/watch?v=LooU8K3UgNE
